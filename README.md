@@ -1,7 +1,8 @@
 # AndroidAPS
 
 AndroidAPS with Ottai support, without paywalls, WeChat subscription, or other restrictions.
-支持 Ottai 的 AndroidAPS 构建版本，无付费墙、无需微信公众号订阅等限制。
+
+支持欧态的 AndroidAPS 构建版本，无付费墙、无需微信公众号订阅等限制。
 
 ## How to Build / 构建方法
 
